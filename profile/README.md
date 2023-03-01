@@ -3,8 +3,8 @@
 </p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/sliit-foss">
-    <img src="https://raw.githubusercontent.com/Foss-kdu/Foss-kdu/main/Artboard%201outline.jpg" height="200" />
+  <a href="https://github.com/Foss-kdu">
+    <img src="https://raw.githubusercontent.com/Foss-kdu/.github/main/logo1.jpg" height="200" />
   </a>
  <p>
 
